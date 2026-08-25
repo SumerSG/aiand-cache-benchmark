@@ -1,0 +1,59 @@
+[
+  {
+    "tier": "high",
+    "project": "api-client",
+    "model": "deepseek-ai/deepseek-v4-flash",
+    "calls": [
+      {
+        "step": 1,
+        "promptTokens": 756,
+        "cachedTokens": 0,
+        "completionTokens": 471,
+        "cost": 0.00023115
+      },
+      {
+        "step": 2,
+        "promptTokens": 1246,
+        "cachedTokens": 1024,
+        "completionTokens": 1110,
+        "cost": 0.0004644
+      },
+      {
+        "step": 3,
+        "promptTokens": 2375,
+        "cachedTokens": 1152,
+        "completionTokens": 54,
+        "cost": 0.00028911
+      },
+      {
+        "step": 4,
+        "promptTokens": 2446,
+        "cachedTokens": 2304,
+        "completionTokens": 158,
+        "cost": 0.00024512
+      }
+    ],
+    "input": 6823,
+    "cached": 4480,
+    "share": 0.6566026674483365,
+    "cost": 0.00122978
+  },
+  {
+    "tier": "high",
+    "project": "api-client",
+    "model": "deepseek-ai/deepseek-v4-pro",
+    "calls": [
+      {
+        "step": 1,
+        "promptTokens": 754,
+        "cachedTokens": 512,
+        "completionTokens": 106,
+        "cost": 0.001019
+      }
+    ],
+    "input": 754,
+    "cached": 512,
+    "share": 0.6790450928381963,
+    "cost": 0.001019
+  }
+]

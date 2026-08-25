@@ -1,0 +1,124 @@
+[
+  {
+    "tier": "high",
+    "project": "data-pipeline",
+    "model": "deepseek-ai/deepseek-v4-flash",
+    "calls": [
+      {
+        "step": 1,
+        "promptTokens": 758,
+        "cachedTokens": 0,
+        "completionTokens": 671,
+        "cost": 0.00028145
+      },
+      {
+        "step": 2,
+        "promptTokens": 1448,
+        "cachedTokens": 1280,
+        "completionTokens": 735,
+        "cost": 0.00040095
+      },
+      {
+        "step": 3,
+        "promptTokens": 2202,
+        "cachedTokens": 1408,
+        "completionTokens": 629,
+        "cost": 0.00038899
+      },
+      {
+        "step": 4,
+        "promptTokens": 2845,
+        "cachedTokens": 2176,
+        "completionTokens": 120,
+        "cost": 0.00030443
+      },
+      {
+        "step": 5,
+        "promptTokens": 3490,
+        "cachedTokens": 2816,
+        "completionTokens": 772,
+        "cost": 0.00051938
+      },
+      {
+        "step": 6,
+        "promptTokens": 4276,
+        "cachedTokens": 3456,
+        "completionTokens": 1115,
+        "cost": 0.00067823
+      },
+      {
+        "step": 7,
+        "promptTokens": 5403,
+        "cachedTokens": 4224,
+        "completionTokens": 92,
+        "cost": 0.00053777
+      },
+      {
+        "step": 8,
+        "promptTokens": 5501,
+        "cachedTokens": 5376,
+        "completionTokens": 171,
+        "cost": 0.00049158
+      },
+      {
+        "step": 9,
+        "promptTokens": 5684,
+        "cachedTokens": 5376,
+        "completionTokens": 133,
+        "cost": 0.00050953
+      },
+      {
+        "step": 10,
+        "promptTokens": 5829,
+        "cachedTokens": 5632,
+        "completionTokens": 183,
+        "cost": 0.00052586
+      },
+      {
+        "step": 11,
+        "promptTokens": 6600,
+        "cachedTokens": 5760,
+        "completionTokens": 3506,
+        "cost": 0.0014633
+      },
+      {
+        "step": 12,
+        "promptTokens": 9429,
+        "cachedTokens": 6528,
+        "completionTokens": 91,
+        "cost": 0.00098014
+      },
+      {
+        "step": 13,
+        "promptTokens": 9532,
+        "cachedTokens": 9344,
+        "completionTokens": 161,
+        "cost": 0.00081597
+      },
+      {
+        "step": 14,
+        "promptTokens": 9705,
+        "cachedTokens": 9472,
+        "completionTokens": 56659,
+        "cost": 0.01495746
+      },
+      {
+        "step": 15,
+        "promptTokens": 66894,
+        "cachedTokens": 9600,
+        "completionTokens": 4173,
+        "cost": 0.01040535
+      }
+    ],
+    "input": 139596,
+    "cached": 72448,
+    "share": 0.5189833519585089,
+    "cost": 0.03326039
+  },
+  {
+    "tier": "high",
+    "project": "data-pipeline",
+    "model": "deepseek-ai/deepseek-v4-pro",
+    "error": "HTTP 502: {\"error\":{\"message\":\"Failed to connect to inference backend via VPC\",\"type\":\"server_error\",\"param\":null,\"code\":\"upstream_error\"}}"
+  }
+]

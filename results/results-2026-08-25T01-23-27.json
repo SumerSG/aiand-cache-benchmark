@@ -1,0 +1,101 @@
+[
+  {
+    "tier": "high",
+    "project": "data-pipeline",
+    "model": "deepseek-ai/deepseek-v4-flash",
+    "calls": [
+      {
+        "step": 1,
+        "promptTokens": 760,
+        "cachedTokens": 0,
+        "completionTokens": 865,
+        "cost": 0.00033025
+      },
+      {
+        "step": 2,
+        "promptTokens": 1644,
+        "cachedTokens": 1536,
+        "completionTokens": 991,
+        "cost": 0.00049435
+      },
+      {
+        "step": 3,
+        "promptTokens": 2656,
+        "cachedTokens": 1536,
+        "completionTokens": 57,
+        "cost": 0.00030513
+      },
+      {
+        "step": 4,
+        "promptTokens": 2730,
+        "cachedTokens": 2560,
+        "completionTokens": 323,
+        "cost": 0.00031105
+      },
+      {
+        "step": 5,
+        "promptTokens": 3070,
+        "cachedTokens": 2688,
+        "completionTokens": 90,
+        "cost": 0.00029484
+      },
+      {
+        "step": 6,
+        "promptTokens": 3172,
+        "cachedTokens": 2944,
+        "completionTokens": 59,
+        "cost": 0.00028447
+      },
+      {
+        "step": 7,
+        "promptTokens": 3248,
+        "cachedTokens": 3072,
+        "completionTokens": 69,
+        "cost": 0.00028941
+      },
+      {
+        "step": 8,
+        "promptTokens": 3329,
+        "cachedTokens": 3200,
+        "completionTokens": 111,
+        "cost": 0.0003031
+      },
+      {
+        "step": 9,
+        "promptTokens": 3452,
+        "cachedTokens": 3328,
+        "completionTokens": 93,
+        "cost": 0.00030809
+      },
+      {
+        "step": 10,
+        "promptTokens": 3562,
+        "cachedTokens": 3328,
+        "completionTokens": 164,
+        "cost": 0.00034234
+      }
+    ],
+    "input": 27623,
+    "cached": 24192,
+    "share": 0.8757919125366542,
+    "cost": 0.00326303
+  },
+  {
+    "tier": "high",
+    "project": "data-pipeline",
+    "model": "deepseek-ai/deepseek-v4-pro",
+    "calls": [
+      {
+        "step": 1,
+        "promptTokens": 758,
+        "cachedTokens": 0,
+        "completionTokens": 116,
+        "cost": 0.001048
+      }
+    ],
+    "input": 758,
+    "cached": 0,
+    "share": 0,
+    "cost": 0.001048
+  }
+]

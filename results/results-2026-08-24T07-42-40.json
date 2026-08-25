@@ -1,0 +1,98 @@
+[
+  {
+    "tier": "low",
+    "project": "market-report",
+    "model": "deepseek-ai/deepseek-v4-flash",
+    "calls": [
+      {
+        "step": 1,
+        "promptTokens": 1372,
+        "cachedTokens": 0,
+        "completionTokens": 1066,
+        "cost": 0.0004723
+      },
+      {
+        "step": 2,
+        "promptTokens": 1323,
+        "cachedTokens": 0,
+        "completionTokens": 1451,
+        "cost": 0.0005612
+      },
+      {
+        "step": 3,
+        "promptTokens": 1336,
+        "cachedTokens": 0,
+        "completionTokens": 1097,
+        "cost": 0.00047465
+      }
+    ],
+    "input": 4031,
+    "cached": 0,
+    "share": 0,
+    "cost": 0.00150815
+  },
+  {
+    "tier": "low",
+    "project": "postmortem-review",
+    "model": "deepseek-ai/deepseek-v4-flash",
+    "calls": [
+      {
+        "step": 1,
+        "promptTokens": 1294,
+        "cachedTokens": 0,
+        "completionTokens": 1032,
+        "cost": 0.0004521
+      },
+      {
+        "step": 2,
+        "promptTokens": 1316,
+        "cachedTokens": 0,
+        "completionTokens": 492,
+        "cost": 0.0003204
+      },
+      {
+        "step": 3,
+        "promptTokens": 1450,
+        "cachedTokens": 0,
+        "completionTokens": 649,
+        "cost": 0.00037975
+      }
+    ],
+    "input": 4060,
+    "cached": 0,
+    "share": 0,
+    "cost": 0.00115225
+  },
+  {
+    "tier": "low",
+    "project": "grant-proposal",
+    "model": "deepseek-ai/deepseek-v4-flash",
+    "calls": [
+      {
+        "step": 1,
+        "promptTokens": 1900,
+        "cachedTokens": 0,
+        "completionTokens": 516,
+        "cost": 0.000414
+      },
+      {
+        "step": 2,
+        "promptTokens": 2138,
+        "cachedTokens": 512,
+        "completionTokens": 399,
+        "cost": 0.00042045
+      },
+      {
+        "step": 3,
+        "promptTokens": 2010,
+        "cachedTokens": 512,
+        "completionTokens": 540,
+        "cost": 0.0004365
+      }
+    ],
+    "input": 6048,
+    "cached": 1024,
+    "share": 0.1693121693121693,
+    "cost": 0.00127095
+  }
+]

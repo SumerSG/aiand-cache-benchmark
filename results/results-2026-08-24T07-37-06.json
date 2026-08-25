@@ -1,0 +1,98 @@
+[
+  {
+    "tier": "low",
+    "project": "market-report",
+    "model": "deepseek-ai/deepseek-v4-flash",
+    "calls": [
+      {
+        "step": 1,
+        "promptTokens": 1421,
+        "cachedTokens": 0,
+        "completionTokens": 952,
+        "cost": 0.00045115
+      },
+      {
+        "step": 2,
+        "promptTokens": 1273,
+        "cachedTokens": 0,
+        "completionTokens": 962,
+        "cost": 0.00043145
+      },
+      {
+        "step": 3,
+        "promptTokens": 1380,
+        "cachedTokens": 0,
+        "completionTokens": 1040,
+        "cost": 0.000467
+      }
+    ],
+    "input": 4074,
+    "cached": 0,
+    "share": 0,
+    "cost": 0.0013496
+  },
+  {
+    "tier": "low",
+    "project": "postmortem-review",
+    "model": "deepseek-ai/deepseek-v4-flash",
+    "calls": [
+      {
+        "step": 1,
+        "promptTokens": 1329,
+        "cachedTokens": 0,
+        "completionTokens": 698,
+        "cost": 0.00037385
+      },
+      {
+        "step": 2,
+        "promptTokens": 1399,
+        "cachedTokens": 0,
+        "completionTokens": 643,
+        "cost": 0.0003706
+      },
+      {
+        "step": 3,
+        "promptTokens": 1473,
+        "cachedTokens": 0,
+        "completionTokens": 853,
+        "cost": 0.0004342
+      }
+    ],
+    "input": 4201,
+    "cached": 0,
+    "share": 0,
+    "cost": 0.00117865
+  },
+  {
+    "tier": "low",
+    "project": "grant-proposal",
+    "model": "deepseek-ai/deepseek-v4-flash",
+    "calls": [
+      {
+        "step": 1,
+        "promptTokens": 1403,
+        "cachedTokens": 0,
+        "completionTokens": 449,
+        "cost": 0.0003227
+      },
+      {
+        "step": 2,
+        "promptTokens": 1380,
+        "cachedTokens": 0,
+        "completionTokens": 424,
+        "cost": 0.000313
+      },
+      {
+        "step": 3,
+        "promptTokens": 1376,
+        "cachedTokens": 0,
+        "completionTokens": 314,
+        "cost": 0.0002849
+      }
+    ],
+    "input": 4159,
+    "cached": 0,
+    "share": 0,
+    "cost": 0.0009205999999999999
+  }
+]

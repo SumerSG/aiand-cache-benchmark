@@ -1,0 +1,26 @@
+[
+  {
+    "tier": "high",
+    "project": "api-client",
+    "model": "deepseek-ai/deepseek-v4-flash",
+    "error": "Cannot read properties of undefined (reading 'length')"
+  },
+  {
+    "tier": "high",
+    "project": "api-client",
+    "model": "deepseek-ai/deepseek-v4-pro",
+    "calls": [
+      {
+        "step": 1,
+        "promptTokens": 752,
+        "cachedTokens": 512,
+        "completionTokens": 3850,
+        "cost": 0.010377
+      }
+    ],
+    "input": 752,
+    "cached": 512,
+    "share": 0.6808510638297872,
+    "cost": 0.010377
+  }
+]

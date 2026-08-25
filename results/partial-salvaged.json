@@ -1,0 +1,258 @@
+[
+  {
+    "tier": "low",
+    "project": "market-report",
+    "model": "deepseek-ai/deepseek-v4-flash",
+    "calls": 3,
+    "share": 0.0,
+    "cost": 0.0012
+  },
+  {
+    "tier": "low",
+    "project": "market-report",
+    "model": "qwen/qwen3.6-27b",
+    "calls": 3,
+    "share": 0.0,
+    "cost": 0.0285
+  },
+  {
+    "tier": "low",
+    "project": "market-report",
+    "model": "deepseek-ai/deepseek-v4-pro",
+    "calls": 3,
+    "share": 0.0,
+    "cost": 0.0218
+  },
+  {
+    "tier": "low",
+    "project": "market-report",
+    "model": "zai-org/glm-5.2",
+    "calls": 3,
+    "share": 0.0,
+    "cost": 0.0185
+  },
+  {
+    "tier": "low",
+    "project": "market-report",
+    "model": "moonshotai/kimi-k3",
+    "calls": 3,
+    "share": 0.0,
+    "cost": 0.0971
+  },
+  {
+    "tier": "low",
+    "project": "postmortem-review",
+    "model": "deepseek-ai/deepseek-v4-flash",
+    "calls": 3,
+    "share": 0.0,
+    "cost": 0.0011
+  },
+  {
+    "tier": "low",
+    "project": "postmortem-review",
+    "model": "qwen/qwen3.6-27b",
+    "calls": 3,
+    "share": 0.0,
+    "cost": 0.0183
+  },
+  {
+    "tier": "low",
+    "project": "postmortem-review",
+    "model": "deepseek-ai/deepseek-v4-pro",
+    "calls": 3,
+    "share": 0.0,
+    "cost": 0.0124
+  },
+  {
+    "tier": "low",
+    "project": "postmortem-review",
+    "model": "zai-org/glm-5.2",
+    "calls": 3,
+    "share": 0.0,
+    "cost": 0.0157
+  },
+  {
+    "tier": "low",
+    "project": "postmortem-review",
+    "model": "moonshotai/kimi-k3",
+    "calls": 3,
+    "share": 0.0,
+    "cost": 0.0842
+  },
+  {
+    "tier": "low",
+    "project": "grant-proposal",
+    "model": "deepseek-ai/deepseek-v4-flash",
+    "calls": 3,
+    "share": 0.375,
+    "cost": 0.0012
+  },
+  {
+    "tier": "low",
+    "project": "grant-proposal",
+    "model": "qwen/qwen3.6-27b",
+    "calls": 3,
+    "share": 0.0,
+    "cost": 0.023
+  },
+  {
+    "tier": "low",
+    "project": "grant-proposal",
+    "model": "deepseek-ai/deepseek-v4-pro",
+    "calls": 3,
+    "share": 0.16699999999999998,
+    "cost": 0.0102
+  },
+  {
+    "tier": "low",
+    "project": "grant-proposal",
+    "model": "zai-org/glm-5.2",
+    "calls": 3,
+    "share": 0.20800000000000002,
+    "cost": 0.0204
+  },
+  {
+    "tier": "low",
+    "project": "grant-proposal",
+    "model": "moonshotai/kimi-k3",
+    "calls": 3,
+    "share": 0.0,
+    "cost": 0.0397
+  },
+  {
+    "tier": "medium",
+    "project": "expense-tracker",
+    "model": "deepseek-ai/deepseek-v4-flash",
+    "calls": 8,
+    "share": 0.738,
+    "cost": 0.0101
+  },
+  {
+    "tier": "medium",
+    "project": "expense-tracker",
+    "model": "qwen/qwen3.6-27b",
+    "calls": 8,
+    "share": 0.711,
+    "cost": 0.1125
+  },
+  {
+    "tier": "medium",
+    "project": "expense-tracker",
+    "model": "deepseek-ai/deepseek-v4-pro",
+    "calls": 8,
+    "share": 0.76,
+    "cost": 0.0502
+  },
+  {
+    "tier": "medium",
+    "project": "expense-tracker",
+    "model": "zai-org/glm-5.2",
+    "calls": 8,
+    "share": 0.7390000000000001,
+    "cost": 0.0881
+  },
+  {
+    "tier": "medium",
+    "project": "expense-tracker",
+    "model": "moonshotai/kimi-k3",
+    "calls": 8,
+    "share": 0.7490000000000001,
+    "cost": 0.1898
+  },
+  {
+    "tier": "medium",
+    "project": "csv-cleaner",
+    "model": "deepseek-ai/deepseek-v4-flash",
+    "calls": 8,
+    "share": 0.635,
+    "cost": 0.0047
+  },
+  {
+    "tier": "medium",
+    "project": "csv-cleaner",
+    "model": "qwen/qwen3.6-27b",
+    "calls": 8,
+    "share": 0.637,
+    "cost": 0.1451
+  },
+  {
+    "tier": "medium",
+    "project": "csv-cleaner",
+    "model": "deepseek-ai/deepseek-v4-pro",
+    "calls": 8,
+    "share": 0.657,
+    "cost": 0.0511
+  },
+  {
+    "tier": "medium",
+    "project": "csv-cleaner",
+    "model": "zai-org/glm-5.2",
+    "calls": 8,
+    "share": 0.644,
+    "cost": 0.076
+  },
+  {
+    "tier": "medium",
+    "project": "csv-cleaner",
+    "model": "moonshotai/kimi-k3",
+    "calls": 8,
+    "share": 0.6729999999999999,
+    "cost": 0.2487
+  },
+  {
+    "tier": "medium",
+    "project": "chrome-extension",
+    "model": "deepseek-ai/deepseek-v4-flash",
+    "calls": 8,
+    "share": 0.737,
+    "cost": 0.0051
+  },
+  {
+    "tier": "medium",
+    "project": "chrome-extension",
+    "model": "qwen/qwen3.6-27b",
+    "calls": 8,
+    "share": 0.6829999999999999,
+    "cost": 0.1533
+  },
+  {
+    "tier": "medium",
+    "project": "chrome-extension",
+    "model": "deepseek-ai/deepseek-v4-pro",
+    "calls": 8,
+    "share": 0.725,
+    "cost": 0.0429
+  },
+  {
+    "tier": "medium",
+    "project": "chrome-extension",
+    "model": "zai-org/glm-5.2",
+    "calls": 8,
+    "share": 0.7509999999999999,
+    "cost": 0.0496
+  },
+  {
+    "tier": "medium",
+    "project": "chrome-extension",
+    "model": "moonshotai/kimi-k3",
+    "calls": 8,
+    "share": 0.754,
+    "cost": 0.2389
+  },
+  {
+    "tier": "high",
+    "project": "todo-app",
+    "model": "deepseek-ai/deepseek-v4-flash",
+    "calls": 8,
+    "share": 0.847,
+    "cost": 0.0023
+  },
+  {
+    "tier": "high",
+    "project": "todo-app",
+    "model": "deepseek-ai/deepseek-v4-pro",
+    "calls": 20,
+    "share": 0.907,
+    "cost": 0.0601
+  }
+]

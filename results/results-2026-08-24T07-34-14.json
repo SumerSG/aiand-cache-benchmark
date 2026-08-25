@@ -1,0 +1,46 @@
+[
+  {
+    "tier": "low",
+    "project": "landing-page",
+    "model": "deepseek-ai/deepseek-v4-flash",
+    "error": "HTTP 502: {\"error\":{\"message\":\"Failed to connect to inference backend via VPC\",\"type\":\"server_error\",\"param\":null,\"code\":\"upstream_error\"}}"
+  },
+  {
+    "tier": "low",
+    "project": "backup-script",
+    "model": "deepseek-ai/deepseek-v4-flash",
+    "error": "HTTP 502: {\"error\":{\"message\":\"Failed to connect to inference backend via VPC\",\"type\":\"server_error\",\"param\":null,\"code\":\"upstream_error\"}}"
+  },
+  {
+    "tier": "low",
+    "project": "cli-readme",
+    "model": "deepseek-ai/deepseek-v4-flash",
+    "calls": [
+      {
+        "step": 1,
+        "promptTokens": 176,
+        "cachedTokens": 0,
+        "completionTokens": 996,
+        "cost": 0.0002754
+      },
+      {
+        "step": 2,
+        "promptTokens": 179,
+        "cachedTokens": 0,
+        "completionTokens": 679,
+        "cost": 0.0001966
+      },
+      {
+        "step": 3,
+        "promptTokens": 174,
+        "cachedTokens": 0,
+        "completionTokens": 529,
+        "cost": 0.00015835
+      }
+    ],
+    "input": 529,
+    "cached": 0,
+    "share": 0,
+    "cost": 0.00063035
+  }
+]

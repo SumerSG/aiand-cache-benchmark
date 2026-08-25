@@ -1,0 +1,98 @@
+[
+  {
+    "tier": "low",
+    "project": "market-report",
+    "model": "deepseek-ai/deepseek-v4-flash",
+    "calls": [
+      {
+        "step": 1,
+        "promptTokens": 1495,
+        "cachedTokens": 0,
+        "completionTokens": 1360,
+        "cost": 0.00056425
+      },
+      {
+        "step": 2,
+        "promptTokens": 1439,
+        "cachedTokens": 0,
+        "completionTokens": 2051,
+        "cost": 0.0007286
+      },
+      {
+        "step": 3,
+        "promptTokens": 1319,
+        "cachedTokens": 0,
+        "completionTokens": 819,
+        "cost": 0.0004026
+      }
+    ],
+    "input": 4253,
+    "cached": 0,
+    "share": 0,
+    "cost": 0.0016954499999999998
+  },
+  {
+    "tier": "low",
+    "project": "postmortem-review",
+    "model": "deepseek-ai/deepseek-v4-flash",
+    "calls": [
+      {
+        "step": 1,
+        "promptTokens": 1294,
+        "cachedTokens": 0,
+        "completionTokens": 533,
+        "cost": 0.00032735
+      },
+      {
+        "step": 2,
+        "promptTokens": 1469,
+        "cachedTokens": 0,
+        "completionTokens": 698,
+        "cost": 0.00039485
+      },
+      {
+        "step": 3,
+        "promptTokens": 1370,
+        "cachedTokens": 0,
+        "completionTokens": 640,
+        "cost": 0.0003655
+      }
+    ],
+    "input": 4133,
+    "cached": 0,
+    "share": 0,
+    "cost": 0.0010877
+  },
+  {
+    "tier": "low",
+    "project": "grant-proposal",
+    "model": "deepseek-ai/deepseek-v4-flash",
+    "calls": [
+      {
+        "step": 1,
+        "promptTokens": 1933,
+        "cachedTokens": 0,
+        "completionTokens": 358,
+        "cost": 0.00037945
+      },
+      {
+        "step": 2,
+        "promptTokens": 2028,
+        "cachedTokens": 512,
+        "completionTokens": 414,
+        "cost": 0.0004077
+      },
+      {
+        "step": 3,
+        "promptTokens": 2003,
+        "cachedTokens": 512,
+        "completionTokens": 429,
+        "cost": 0.0004077
+      }
+    ],
+    "input": 5964,
+    "cached": 1024,
+    "share": 0.17169684775318578,
+    "cost": 0.00119485
+  }
+]

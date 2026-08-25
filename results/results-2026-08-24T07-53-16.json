@@ -1,0 +1,194 @@
+[
+  {
+    "tier": "low",
+    "project": "market-report",
+    "model": "deepseek-ai/deepseek-v4-flash",
+    "calls": [
+      {
+        "step": 1,
+        "promptTokens": 1419,
+        "cachedTokens": 0,
+        "completionTokens": 777,
+        "cost": 0.0004071
+      },
+      {
+        "step": 2,
+        "promptTokens": 1520,
+        "cachedTokens": 0,
+        "completionTokens": 2587,
+        "cost": 0.00087475
+      },
+      {
+        "step": 3,
+        "promptTokens": 1418,
+        "cachedTokens": 0,
+        "completionTokens": 885,
+        "cost": 0.00043395
+      }
+    ],
+    "input": 4357,
+    "cached": 0,
+    "share": 0,
+    "cost": 0.0017158
+  },
+  {
+    "tier": "low",
+    "project": "market-report",
+    "model": "qwen/qwen3.6-27b",
+    "calls": [
+      {
+        "step": 1,
+        "promptTokens": 1485,
+        "cachedTokens": 0,
+        "completionTokens": 3094,
+        "cost": 0.010376
+      },
+      {
+        "step": 2,
+        "promptTokens": 1603,
+        "cachedTokens": 0,
+        "completionTokens": 2912,
+        "cost": 0.00983136
+      },
+      {
+        "step": 3,
+        "promptTokens": 1486,
+        "cachedTokens": 0,
+        "completionTokens": 3521,
+        "cost": 0.01174272
+      }
+    ],
+    "input": 4574,
+    "cached": 0,
+    "share": 0,
+    "cost": 0.03195008
+  },
+  {
+    "tier": "low",
+    "project": "postmortem-review",
+    "model": "deepseek-ai/deepseek-v4-flash",
+    "calls": [
+      {
+        "step": 1,
+        "promptTokens": 1365,
+        "cachedTokens": 0,
+        "completionTokens": 537,
+        "cost": 0.000339
+      },
+      {
+        "step": 2,
+        "promptTokens": 1403,
+        "cachedTokens": 0,
+        "completionTokens": 753,
+        "cost": 0.0003987
+      },
+      {
+        "step": 3,
+        "promptTokens": 1335,
+        "cachedTokens": 0,
+        "completionTokens": 514,
+        "cost": 0.00032875
+      }
+    ],
+    "input": 4103,
+    "cached": 0,
+    "share": 0,
+    "cost": 0.00106645
+  },
+  {
+    "tier": "low",
+    "project": "postmortem-review",
+    "model": "qwen/qwen3.6-27b",
+    "calls": [
+      {
+        "step": 1,
+        "promptTokens": 1432,
+        "cachedTokens": 0,
+        "completionTokens": 2283,
+        "cost": 0.00776384
+      },
+      {
+        "step": 2,
+        "promptTokens": 1462,
+        "cachedTokens": 0,
+        "completionTokens": 2417,
+        "cost": 0.00820224
+      },
+      {
+        "step": 3,
+        "promptTokens": 1380,
+        "cachedTokens": 0,
+        "completionTokens": 1769,
+        "cost": 0.0061024
+      }
+    ],
+    "input": 4274,
+    "cached": 0,
+    "share": 0,
+    "cost": 0.02206848
+  },
+  {
+    "tier": "low",
+    "project": "grant-proposal",
+    "model": "deepseek-ai/deepseek-v4-flash",
+    "calls": [
+      {
+        "step": 1,
+        "promptTokens": 1880,
+        "cachedTokens": 0,
+        "completionTokens": 339,
+        "cost": 0.00036675
+      },
+      {
+        "step": 2,
+        "promptTokens": 2141,
+        "cachedTokens": 512,
+        "completionTokens": 324,
+        "cost": 0.00040215
+      },
+      {
+        "step": 3,
+        "promptTokens": 2152,
+        "cachedTokens": 512,
+        "completionTokens": 320,
+        "cost": 0.0004028
+      }
+    ],
+    "input": 6173,
+    "cached": 1024,
+    "share": 0.16588368702413736,
+    "cost": 0.0011717
+  },
+  {
+    "tier": "low",
+    "project": "grant-proposal",
+    "model": "qwen/qwen3.6-27b",
+    "calls": [
+      {
+        "step": 1,
+        "promptTokens": 1975,
+        "cachedTokens": 0,
+        "completionTokens": 2312,
+        "cost": 0.0080304
+      },
+      {
+        "step": 2,
+        "promptTokens": 2267,
+        "cachedTokens": 0,
+        "completionTokens": 1980,
+        "cost": 0.00706144
+      },
+      {
+        "step": 3,
+        "promptTokens": 2243,
+        "cachedTokens": 0,
+        "completionTokens": 2358,
+        "cost": 0.00826336
+      }
+    ],
+    "input": 6485,
+    "cached": 0,
+    "share": 0,
+    "cost": 0.0233552
+  }
+]

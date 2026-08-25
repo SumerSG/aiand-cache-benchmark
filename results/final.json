@@ -1,0 +1,2040 @@
+[
+  {
+    "tier": "high",
+    "project": "api-client",
+    "model": "deepseek-ai/deepseek-v4-flash",
+    "calls": [
+      {
+        "step": 1,
+        "promptTokens": 754,
+        "cachedTokens": 512,
+        "completionTokens": 494,
+        "cost": 0.0002366
+      },
+      {
+        "step": 2,
+        "promptTokens": 1267,
+        "cachedTokens": 1024,
+        "completionTokens": 1310,
+        "cost": 0.00051755
+      },
+      {
+        "step": 3,
+        "promptTokens": 2595,
+        "cachedTokens": 1152,
+        "completionTokens": 58,
+        "cost": 0.00032311
+      },
+      {
+        "step": 4,
+        "promptTokens": 2670,
+        "cachedTokens": 2560,
+        "completionTokens": 346,
+        "cost": 0.0003078
+      },
+      {
+        "step": 5,
+        "promptTokens": 4207,
+        "cachedTokens": 2560,
+        "completionTokens": 1430,
+        "cost": 0.00080935
+      },
+      {
+        "step": 6,
+        "promptTokens": 5656,
+        "cachedTokens": 4096,
+        "completionTokens": 54,
+        "cost": 0.00057518
+      },
+      {
+        "step": 7,
+        "promptTokens": 5727,
+        "cachedTokens": 5632,
+        "completionTokens": 491,
+        "cost": 0.00058756
+      },
+      {
+        "step": 8,
+        "promptTokens": 6235,
+        "cachedTokens": 5632,
+        "completionTokens": 190,
+        "cost": 0.00058851
+      },
+      {
+        "step": 9,
+        "promptTokens": 6442,
+        "cachedTokens": 6144,
+        "completionTokens": 2572,
+        "cost": 0.00117922
+      },
+      {
+        "step": 10,
+        "promptTokens": 9033,
+        "cachedTokens": 6400,
+        "completionTokens": 56,
+        "cost": 0.00092095
+      },
+      {
+        "step": 11,
+        "promptTokens": 9106,
+        "cachedTokens": 8960,
+        "completionTokens": 1926,
+        "cost": 0.0012202
+      },
+      {
+        "step": 12,
+        "promptTokens": 11051,
+        "cachedTokens": 9088,
+        "completionTokens": 52,
+        "cost": 0.00103449
+      },
+      {
+        "step": 13,
+        "promptTokens": 11120,
+        "cachedTokens": 11008,
+        "completionTokens": 475,
+        "cost": 0.00101619
+      },
+      {
+        "step": 14,
+        "promptTokens": 11607,
+        "cachedTokens": 11008,
+        "completionTokens": 130,
+        "cost": 0.00100299
+      },
+      {
+        "step": 15,
+        "promptTokens": 11754,
+        "cachedTokens": 11520,
+        "completionTokens": 1067,
+        "cost": 0.00122345
+      },
+      {
+        "step": 16,
+        "promptTokens": 12840,
+        "cachedTokens": 11648,
+        "completionTokens": 56,
+        "cost": 0.00112464
+      },
+      {
+        "step": 17,
+        "promptTokens": 12913,
+        "cachedTokens": 12800,
+        "completionTokens": 1311,
+        "cost": 0.0013687
+      },
+      {
+        "step": 18,
+        "promptTokens": 14243,
+        "cachedTokens": 12800,
+        "completionTokens": 53,
+        "cost": 0.0012537
+      },
+      {
+        "step": 19,
+        "promptTokens": 14313,
+        "cachedTokens": 14208,
+        "completionTokens": 190,
+        "cost": 0.00119989
+      },
+      {
+        "step": 20,
+        "promptTokens": 14515,
+        "cachedTokens": 14208,
+        "completionTokens": 77,
+        "cost": 0.00120194
+      }
+    ],
+    "input": 168048,
+    "cached": 152960,
+    "share": 0.9102161287251261,
+    "cost": 0.01769202
+  },
+  {
+    "tier": "high",
+    "project": "api-client",
+    "model": "deepseek-ai/deepseek-v4-pro",
+    "calls": [
+      {
+        "step": 1,
+        "promptTokens": 754,
+        "cachedTokens": 512,
+        "completionTokens": 106,
+        "cost": 0.001019
+      }
+    ],
+    "input": 754,
+    "cached": 512,
+    "share": 0.6790450928381963,
+    "cost": 0.001019
+  },
+  {
+    "tier": "high",
+    "project": "data-pipeline",
+    "model": "deepseek-ai/deepseek-v4-flash",
+    "calls": [
+      {
+        "step": 1,
+        "promptTokens": 758,
+        "cachedTokens": 0,
+        "completionTokens": 671,
+        "cost": 0.00028145
+      },
+      {
+        "step": 2,
+        "promptTokens": 1448,
+        "cachedTokens": 1280,
+        "completionTokens": 735,
+        "cost": 0.00040095
+      },
+      {
+        "step": 3,
+        "promptTokens": 2202,
+        "cachedTokens": 1408,
+        "completionTokens": 629,
+        "cost": 0.00038899
+      },
+      {
+        "step": 4,
+        "promptTokens": 2845,
+        "cachedTokens": 2176,
+        "completionTokens": 120,
+        "cost": 0.00030443
+      },
+      {
+        "step": 5,
+        "promptTokens": 3490,
+        "cachedTokens": 2816,
+        "completionTokens": 772,
+        "cost": 0.00051938
+      },
+      {
+        "step": 6,
+        "promptTokens": 4276,
+        "cachedTokens": 3456,
+        "completionTokens": 1115,
+        "cost": 0.00067823
+      },
+      {
+        "step": 7,
+        "promptTokens": 5403,
+        "cachedTokens": 4224,
+        "completionTokens": 92,
+        "cost": 0.00053777
+      },
+      {
+        "step": 8,
+        "promptTokens": 5501,
+        "cachedTokens": 5376,
+        "completionTokens": 171,
+        "cost": 0.00049158
+      },
+      {
+        "step": 9,
+        "promptTokens": 5684,
+        "cachedTokens": 5376,
+        "completionTokens": 133,
+        "cost": 0.00050953
+      },
+      {
+        "step": 10,
+        "promptTokens": 5829,
+        "cachedTokens": 5632,
+        "completionTokens": 183,
+        "cost": 0.00052586
+      },
+      {
+        "step": 11,
+        "promptTokens": 6600,
+        "cachedTokens": 5760,
+        "completionTokens": 3506,
+        "cost": 0.0014633
+      },
+      {
+        "step": 12,
+        "promptTokens": 9429,
+        "cachedTokens": 6528,
+        "completionTokens": 91,
+        "cost": 0.00098014
+      },
+      {
+        "step": 13,
+        "promptTokens": 9532,
+        "cachedTokens": 9344,
+        "completionTokens": 161,
+        "cost": 0.00081597
+      },
+      {
+        "step": 14,
+        "promptTokens": 9705,
+        "cachedTokens": 9472,
+        "completionTokens": 56659,
+        "cost": 0.01495746
+      },
+      {
+        "step": 15,
+        "promptTokens": 66894,
+        "cachedTokens": 9600,
+        "completionTokens": 4173,
+        "cost": 0.01040535
+      }
+    ],
+    "input": 139596,
+    "cached": 72448,
+    "share": 0.5189833519585089,
+    "cost": 0.03326039
+  },
+  {
+    "tier": "high",
+    "project": "data-pipeline",
+    "model": "deepseek-ai/deepseek-v4-pro",
+    "calls": [
+      {
+        "step": 1,
+        "promptTokens": 758,
+        "cachedTokens": 0,
+        "completionTokens": 116,
+        "cost": 0.001048
+      }
+    ],
+    "input": 758,
+    "cached": 0,
+    "share": 0,
+    "cost": 0.001048
+  },
+  {
+    "tier": "high",
+    "project": "todo-app",
+    "model": "deepseek-ai/deepseek-v4-flash",
+    "calls": [
+      {
+        "step": 1,
+        "promptTokens": 732,
+        "cachedTokens": 0,
+        "completionTokens": 774,
+        "cost": 0.0003033
+      },
+      {
+        "step": 2,
+        "promptTokens": 1524,
+        "cachedTokens": 1280,
+        "completionTokens": 815,
+        "cost": 0.00043235
+      },
+      {
+        "step": 3,
+        "promptTokens": 2358,
+        "cachedTokens": 1408,
+        "completionTokens": 54,
+        "cost": 0.00026864
+      },
+      {
+        "step": 4,
+        "promptTokens": 2429,
+        "cachedTokens": 2304,
+        "completionTokens": 176,
+        "cost": 0.00024707
+      },
+      {
+        "step": 5,
+        "promptTokens": 2617,
+        "cachedTokens": 2304,
+        "completionTokens": 91,
+        "cost": 0.00025402
+      },
+      {
+        "step": 6,
+        "promptTokens": 2725,
+        "cachedTokens": 2560,
+        "completionTokens": 90,
+        "cost": 0.00025205
+      },
+      {
+        "step": 7,
+        "promptTokens": 2832,
+        "cachedTokens": 2688,
+        "completionTokens": 64,
+        "cost": 0.00025264
+      },
+      {
+        "step": 8,
+        "promptTokens": 2908,
+        "cachedTokens": 2816,
+        "completionTokens": 139,
+        "cost": 0.00027383
+      }
+    ],
+    "input": 18125,
+    "cached": 15360,
+    "share": 0.847448275862069,
+    "cost": 0.0022839
+  },
+  {
+    "tier": "high",
+    "project": "todo-app",
+    "model": "deepseek-ai/deepseek-v4-pro",
+    "calls": [
+      {
+        "step": 1,
+        "promptTokens": 730,
+        "cachedTokens": 0,
+        "completionTokens": 797,
+        "cost": 0.0027225
+      },
+      {
+        "step": 2,
+        "promptTokens": 1549,
+        "cachedTokens": 1280,
+        "completionTokens": 715,
+        "cost": 0.0033365
+      },
+      {
+        "step": 3,
+        "promptTokens": 2286,
+        "cachedTokens": 1536,
+        "completionTokens": 54,
+        "cost": 0.001269
+      },
+      {
+        "step": 4,
+        "promptTokens": 2357,
+        "cachedTokens": 2176,
+        "completionTokens": 178,
+        "cost": 0.00117
+      },
+      {
+        "step": 5,
+        "promptTokens": 2552,
+        "cachedTokens": 2304,
+        "completionTokens": 230,
+        "cost": 0.001399
+      },
+      {
+        "step": 6,
+        "promptTokens": 2794,
+        "cachedTokens": 2432,
+        "completionTokens": 468,
+        "cost": 0.00214
+      },
+      {
+        "step": 7,
+        "promptTokens": 3827,
+        "cachedTokens": 2688,
+        "completionTokens": 1266,
+        "cost": 0.004976
+      },
+      {
+        "step": 8,
+        "promptTokens": 5115,
+        "cachedTokens": 3712,
+        "completionTokens": 60,
+        "cost": 0.002481
+      },
+      {
+        "step": 9,
+        "promptTokens": 5192,
+        "cachedTokens": 4992,
+        "completionTokens": 939,
+        "cost": 0.0037955
+      },
+      {
+        "step": 10,
+        "promptTokens": 6153,
+        "cachedTokens": 5120,
+        "completionTokens": 623,
+        "cost": 0.0038705
+      },
+      {
+        "step": 11,
+        "promptTokens": 6798,
+        "cachedTokens": 6144,
+        "completionTokens": 47,
+        "cost": 0.0023075
+      },
+      {
+        "step": 12,
+        "promptTokens": 6862,
+        "cachedTokens": 6784,
+        "completionTokens": 164,
+        "cost": 0.002184
+      },
+      {
+        "step": 13,
+        "promptTokens": 7038,
+        "cachedTokens": 6784,
+        "completionTokens": 712,
+        "cost": 0.00373
+      },
+      {
+        "step": 14,
+        "promptTokens": 7772,
+        "cachedTokens": 6912,
+        "completionTokens": 51,
+        "cost": 0.0027155
+      },
+      {
+        "step": 15,
+        "promptTokens": 7840,
+        "cachedTokens": 7680,
+        "completionTokens": 860,
+        "cost": 0.00423
+      },
+      {
+        "step": 16,
+        "promptTokens": 8722,
+        "cachedTokens": 7808,
+        "completionTokens": 47,
+        "cost": 0.0029835
+      },
+      {
+        "step": 17,
+        "promptTokens": 8786,
+        "cachedTokens": 8704,
+        "completionTokens": 501,
+        "cost": 0.0035105
+      },
+      {
+        "step": 18,
+        "promptTokens": 9299,
+        "cachedTokens": 8704,
+        "completionTokens": 665,
+        "cost": 0.0044335
+      },
+      {
+        "step": 19,
+        "promptTokens": 9986,
+        "cachedTokens": 9216,
+        "completionTokens": 47,
+        "cost": 0.0031915
+      },
+      {
+        "step": 20,
+        "promptTokens": 10050,
+        "cachedTokens": 9984,
+        "completionTokens": 447,
+        "cost": 0.0036795
+      }
+    ],
+    "input": 115708,
+    "cached": 104960,
+    "share": 0.9071110035606873,
+    "cost": 0.0601255
+  },
+  {
+    "tier": "low",
+    "project": "cli-readme",
+    "model": "deepseek-ai/deepseek-v4-flash",
+    "calls": [
+      {
+        "step": 1,
+        "promptTokens": 176,
+        "cachedTokens": 0,
+        "completionTokens": 996,
+        "cost": 0.0002754
+      },
+      {
+        "step": 2,
+        "promptTokens": 179,
+        "cachedTokens": 0,
+        "completionTokens": 679,
+        "cost": 0.0001966
+      },
+      {
+        "step": 3,
+        "promptTokens": 174,
+        "cachedTokens": 0,
+        "completionTokens": 529,
+        "cost": 0.00015835
+      }
+    ],
+    "input": 529,
+    "cached": 0,
+    "share": 0,
+    "cost": 0.00063035
+  },
+  {
+    "tier": "low",
+    "project": "grant-proposal",
+    "model": "deepseek-ai/deepseek-v4-flash",
+    "calls": [
+      {
+        "step": 1,
+        "promptTokens": 2027,
+        "cachedTokens": 0,
+        "completionTokens": 453,
+        "cost": 0.0004173
+      },
+      {
+        "step": 2,
+        "promptTokens": 2054,
+        "cachedTokens": 1792,
+        "completionTokens": 324,
+        "cost": 0.0003891
+      },
+      {
+        "step": 3,
+        "promptTokens": 2055,
+        "cachedTokens": 512,
+        "completionTokens": 307,
+        "cost": 0.000385
+      }
+    ],
+    "input": 6136,
+    "cached": 2304,
+    "share": 0.3754889178617992,
+    "cost": 0.0011914
+  },
+  {
+    "tier": "low",
+    "project": "grant-proposal",
+    "model": "deepseek-ai/deepseek-v4-pro",
+    "calls": [
+      {
+        "step": 1,
+        "promptTokens": 2025,
+        "cachedTokens": 0,
+        "completionTokens": 481,
+        "cost": 0.0032275
+      },
+      {
+        "step": 2,
+        "promptTokens": 2053,
+        "cachedTokens": 512,
+        "completionTokens": 497,
+        "cost": 0.0032955
+      },
+      {
+        "step": 3,
+        "promptTokens": 2054,
+        "cachedTokens": 512,
+        "completionTokens": 654,
+        "cost": 0.003689
+      }
+    ],
+    "input": 6132,
+    "cached": 1024,
+    "share": 0.1669928245270711,
+    "cost": 0.010211999999999999
+  },
+  {
+    "tier": "low",
+    "project": "grant-proposal",
+    "model": "moonshotai/kimi-k3",
+    "calls": [
+      {
+        "step": 1,
+        "promptTokens": 2114,
+        "cachedTokens": 0,
+        "completionTokens": 553,
+        "cost": 0.0132545
+      },
+      {
+        "step": 2,
+        "promptTokens": 2141,
+        "cachedTokens": 0,
+        "completionTokens": 537,
+        "cost": 0.0131355
+      },
+      {
+        "step": 3,
+        "promptTokens": 2136,
+        "cachedTokens": 0,
+        "completionTokens": 556,
+        "cost": 0.013358
+      }
+    ],
+    "input": 6391,
+    "cached": 0,
+    "share": 0,
+    "cost": 0.039748
+  },
+  {
+    "tier": "low",
+    "project": "grant-proposal",
+    "model": "qwen/qwen3.6-27b",
+    "calls": [
+      {
+        "step": 1,
+        "promptTokens": 2129,
+        "cachedTokens": 0,
+        "completionTokens": 2088,
+        "cost": 0.00736288
+      },
+      {
+        "step": 2,
+        "promptTokens": 2167,
+        "cachedTokens": 0,
+        "completionTokens": 2479,
+        "cost": 0.00862624
+      },
+      {
+        "step": 3,
+        "promptTokens": 2145,
+        "cachedTokens": 0,
+        "completionTokens": 1979,
+        "cost": 0.0070192
+      }
+    ],
+    "input": 6441,
+    "cached": 0,
+    "share": 0,
+    "cost": 0.02300832
+  },
+  {
+    "tier": "low",
+    "project": "grant-proposal",
+    "model": "zai-org/glm-5.2",
+    "calls": [
+      {
+        "step": 1,
+        "promptTokens": 2035,
+        "cachedTokens": 0,
+        "completionTokens": 751,
+        "cost": 0.005039
+      },
+      {
+        "step": 2,
+        "promptTokens": 2077,
+        "cachedTokens": 640,
+        "completionTokens": 1471,
+        "cost": 0.007961
+      },
+      {
+        "step": 3,
+        "promptTokens": 2051,
+        "cachedTokens": 640,
+        "completionTokens": 1344,
+        "cost": 0.007427
+      }
+    ],
+    "input": 6163,
+    "cached": 1280,
+    "share": 0.20769105954892098,
+    "cost": 0.020427
+  },
+  {
+    "tier": "low",
+    "project": "market-report",
+    "model": "deepseek-ai/deepseek-v4-flash",
+    "calls": [
+      {
+        "step": 1,
+        "promptTokens": 1346,
+        "cachedTokens": 0,
+        "completionTokens": 725,
+        "cost": 0.00038315
+      },
+      {
+        "step": 2,
+        "promptTokens": 1399,
+        "cachedTokens": 0,
+        "completionTokens": 1048,
+        "cost": 0.00047185
+      },
+      {
+        "step": 3,
+        "promptTokens": 1482,
+        "cachedTokens": 0,
+        "completionTokens": 409,
+        "cost": 0.00032455
+      }
+    ],
+    "input": 4227,
+    "cached": 0,
+    "share": 0,
+    "cost": 0.0011795500000000001
+  },
+  {
+    "tier": "low",
+    "project": "market-report",
+    "model": "deepseek-ai/deepseek-v4-pro",
+    "calls": [
+      {
+        "step": 1,
+        "promptTokens": 1344,
+        "cachedTokens": 0,
+        "completionTokens": 2156,
+        "cost": 0.006734
+      },
+      {
+        "step": 2,
+        "promptTokens": 1398,
+        "cachedTokens": 0,
+        "completionTokens": 2240,
+        "cost": 0.006998
+      },
+      {
+        "step": 3,
+        "promptTokens": 1481,
+        "cachedTokens": 0,
+        "completionTokens": 2650,
+        "cost": 0.008106
+      }
+    ],
+    "input": 4223,
+    "cached": 0,
+    "share": 0,
+    "cost": 0.021838000000000003
+  },
+  {
+    "tier": "low",
+    "project": "market-report",
+    "model": "moonshotai/kimi-k3",
+    "calls": [
+      {
+        "step": 1,
+        "promptTokens": 1431,
+        "cachedTokens": 0,
+        "completionTokens": 1713,
+        "cost": 0.0257055
+      },
+      {
+        "step": 2,
+        "promptTokens": 1495,
+        "cachedTokens": 0,
+        "completionTokens": 2455,
+        "cost": 0.0351725
+      },
+      {
+        "step": 3,
+        "promptTokens": 1571,
+        "cachedTokens": 0,
+        "completionTokens": 2523,
+        "cost": 0.0362505
+      }
+    ],
+    "input": 4497,
+    "cached": 0,
+    "share": 0,
+    "cost": 0.0971285
+  },
+  {
+    "tier": "low",
+    "project": "market-report",
+    "model": "qwen/qwen3.6-27b",
+    "calls": [
+      {
+        "step": 1,
+        "promptTokens": 1409,
+        "cachedTokens": 0,
+        "completionTokens": 2478,
+        "cost": 0.00838048
+      },
+      {
+        "step": 2,
+        "promptTokens": 1473,
+        "cachedTokens": 0,
+        "completionTokens": 3120,
+        "cost": 0.01045536
+      },
+      {
+        "step": 3,
+        "promptTokens": 1549,
+        "cachedTokens": 0,
+        "completionTokens": 2879,
+        "cost": 0.00970848
+      }
+    ],
+    "input": 4431,
+    "cached": 0,
+    "share": 0,
+    "cost": 0.028544319999999998
+  },
+  {
+    "tier": "low",
+    "project": "market-report",
+    "model": "zai-org/glm-5.2",
+    "calls": [
+      {
+        "step": 1,
+        "promptTokens": 1348,
+        "cachedTokens": 0,
+        "completionTokens": 1071,
+        "cost": 0.005632
+      },
+      {
+        "step": 2,
+        "promptTokens": 1409,
+        "cachedTokens": 0,
+        "completionTokens": 1166,
+        "cost": 0.006073
+      },
+      {
+        "step": 3,
+        "promptTokens": 1484,
+        "cachedTokens": 0,
+        "completionTokens": 1331,
+        "cost": 0.006808
+      }
+    ],
+    "input": 4241,
+    "cached": 0,
+    "share": 0,
+    "cost": 0.018513
+  },
+  {
+    "tier": "low",
+    "project": "postmortem-review",
+    "model": "deepseek-ai/deepseek-v4-flash",
+    "calls": [
+      {
+        "step": 1,
+        "promptTokens": 1300,
+        "cachedTokens": 0,
+        "completionTokens": 649,
+        "cost": 0.00035725
+      },
+      {
+        "step": 2,
+        "promptTokens": 1300,
+        "cachedTokens": 0,
+        "completionTokens": 720,
+        "cost": 0.000375
+      },
+      {
+        "step": 3,
+        "promptTokens": 1285,
+        "cachedTokens": 0,
+        "completionTokens": 703,
+        "cost": 0.0003685
+      }
+    ],
+    "input": 3885,
+    "cached": 0,
+    "share": 0,
+    "cost": 0.0011007500000000002
+  },
+  {
+    "tier": "low",
+    "project": "postmortem-review",
+    "model": "deepseek-ai/deepseek-v4-pro",
+    "calls": [
+      {
+        "step": 1,
+        "promptTokens": 1298,
+        "cachedTokens": 0,
+        "completionTokens": 1268,
+        "cost": 0.004468
+      },
+      {
+        "step": 2,
+        "promptTokens": 1299,
+        "cachedTokens": 0,
+        "completionTokens": 788,
+        "cost": 0.003269
+      },
+      {
+        "step": 3,
+        "promptTokens": 1284,
+        "cachedTokens": 0,
+        "completionTokens": 1334,
+        "cost": 0.004619
+      }
+    ],
+    "input": 3881,
+    "cached": 0,
+    "share": 0,
+    "cost": 0.012355999999999999
+  },
+  {
+    "tier": "low",
+    "project": "postmortem-review",
+    "model": "moonshotai/kimi-k3",
+    "calls": [
+      {
+        "step": 1,
+        "promptTokens": 1378,
+        "cachedTokens": 0,
+        "completionTokens": 1882,
+        "cost": 0.027659
+      },
+      {
+        "step": 2,
+        "promptTokens": 1354,
+        "cachedTokens": 0,
+        "completionTokens": 1623,
+        "cost": 0.0243495
+      },
+      {
+        "step": 3,
+        "promptTokens": 1357,
+        "cachedTokens": 0,
+        "completionTokens": 2250,
+        "cost": 0.032196
+      }
+    ],
+    "input": 4089,
+    "cached": 0,
+    "share": 0,
+    "cost": 0.0842045
+  },
+  {
+    "tier": "low",
+    "project": "postmortem-review",
+    "model": "qwen/qwen3.6-27b",
+    "calls": [
+      {
+        "step": 1,
+        "promptTokens": 1371,
+        "cachedTokens": 0,
+        "completionTokens": 1580,
+        "cost": 0.00549472
+      },
+      {
+        "step": 2,
+        "promptTokens": 1332,
+        "cachedTokens": 0,
+        "completionTokens": 1846,
+        "cost": 0.00633344
+      },
+      {
+        "step": 3,
+        "promptTokens": 1329,
+        "cachedTokens": 0,
+        "completionTokens": 1881,
+        "cost": 0.00644448
+      }
+    ],
+    "input": 4032,
+    "cached": 0,
+    "share": 0,
+    "cost": 0.01827264
+  },
+  {
+    "tier": "low",
+    "project": "postmortem-review",
+    "model": "zai-org/glm-5.2",
+    "calls": [
+      {
+        "step": 1,
+        "promptTokens": 1308,
+        "cachedTokens": 0,
+        "completionTokens": 1062,
+        "cost": 0.005556
+      },
+      {
+        "step": 2,
+        "promptTokens": 1275,
+        "cachedTokens": 0,
+        "completionTokens": 1198,
+        "cost": 0.006067
+      },
+      {
+        "step": 3,
+        "promptTokens": 1267,
+        "cachedTokens": 0,
+        "completionTokens": 695,
+        "cost": 0.004047
+      }
+    ],
+    "input": 3850,
+    "cached": 0,
+    "share": 0,
+    "cost": 0.015670000000000003
+  },
+  {
+    "tier": "medium",
+    "project": "chrome-extension",
+    "model": "deepseek-ai/deepseek-v4-flash",
+    "calls": [
+      {
+        "step": 1,
+        "promptTokens": 216,
+        "cachedTokens": 0,
+        "completionTokens": 1192,
+        "cost": 0.0003304
+      },
+      {
+        "step": 2,
+        "promptTokens": 1060,
+        "cachedTokens": 0,
+        "completionTokens": 862,
+        "cost": 0.0003745
+      },
+      {
+        "step": 3,
+        "promptTokens": 1738,
+        "cachedTokens": 1024,
+        "completionTokens": 1012,
+        "cost": 0.00044202
+      },
+      {
+        "step": 4,
+        "promptTokens": 2453,
+        "cachedTokens": 1664,
+        "completionTokens": 1661,
+        "cost": 0.00066672
+      },
+      {
+        "step": 5,
+        "promptTokens": 3995,
+        "cachedTokens": 2432,
+        "completionTokens": 1881,
+        "cost": 0.00089926
+      },
+      {
+        "step": 6,
+        "promptTokens": 5351,
+        "cachedTokens": 3968,
+        "completionTokens": 1543,
+        "cost": 0.00091064
+      },
+      {
+        "step": 7,
+        "promptTokens": 6702,
+        "cachedTokens": 5248,
+        "completionTokens": 657,
+        "cost": 0.00080219
+      },
+      {
+        "step": 8,
+        "promptTokens": 6976,
+        "cachedTokens": 6656,
+        "completionTokens": 299,
+        "cost": 0.00065523
+      }
+    ],
+    "input": 28491,
+    "cached": 20992,
+    "share": 0.7367940753220316,
+    "cost": 0.00508096
+  },
+  {
+    "tier": "medium",
+    "project": "chrome-extension",
+    "model": "deepseek-ai/deepseek-v4-pro",
+    "calls": [
+      {
+        "step": 1,
+        "promptTokens": 214,
+        "cachedTokens": 0,
+        "completionTokens": 1465,
+        "cost": 0.0038765
+      },
+      {
+        "step": 2,
+        "promptTokens": 1085,
+        "cachedTokens": 0,
+        "completionTokens": 1473,
+        "cost": 0.0047675
+      },
+      {
+        "step": 3,
+        "promptTokens": 1732,
+        "cachedTokens": 1024,
+        "completionTokens": 726,
+        "cost": 0.002779
+      },
+      {
+        "step": 4,
+        "promptTokens": 2354,
+        "cachedTokens": 1664,
+        "completionTokens": 1826,
+        "cost": 0.005671
+      },
+      {
+        "step": 5,
+        "promptTokens": 3781,
+        "cachedTokens": 2304,
+        "completionTokens": 3006,
+        "cost": 0.009568
+      },
+      {
+        "step": 6,
+        "promptTokens": 5376,
+        "cachedTokens": 3712,
+        "completionTokens": 2114,
+        "cost": 0.007877
+      },
+      {
+        "step": 7,
+        "promptTokens": 7009,
+        "cachedTokens": 5376,
+        "completionTokens": 680,
+        "cost": 0.004677
+      },
+      {
+        "step": 8,
+        "promptTokens": 7410,
+        "cachedTokens": 6912,
+        "completionTokens": 598,
+        "cost": 0.003721
+      }
+    ],
+    "input": 28961,
+    "cached": 20992,
+    "share": 0.7248368495562999,
+    "cost": 0.042937
+  },
+  {
+    "tier": "medium",
+    "project": "chrome-extension",
+    "model": "moonshotai/kimi-k3",
+    "calls": [
+      {
+        "step": 1,
+        "promptTokens": 296,
+        "cachedTokens": 0,
+        "completionTokens": 2536,
+        "cost": 0.032588
+      },
+      {
+        "step": 2,
+        "promptTokens": 1397,
+        "cachedTokens": 0,
+        "completionTokens": 2619,
+        "cost": 0.0369285
+      },
+      {
+        "step": 3,
+        "promptTokens": 2547,
+        "cachedTokens": 1280,
+        "completionTokens": 1865,
+        "cost": 0.0277535
+      },
+      {
+        "step": 4,
+        "promptTokens": 3181,
+        "cachedTokens": 2432,
+        "completionTokens": 5616,
+        "cost": 0.073663
+      },
+      {
+        "step": 5,
+        "promptTokens": 5454,
+        "cachedTokens": 3072,
+        "completionTokens": 1118,
+        "cost": 0.022657
+      },
+      {
+        "step": 6,
+        "promptTokens": 6606,
+        "cachedTokens": 5376,
+        "completionTokens": 1133,
+        "cost": 0.0205405
+      },
+      {
+        "step": 7,
+        "promptTokens": 7002,
+        "cachedTokens": 6528,
+        "completionTokens": 411,
+        "cost": 0.0098235
+      },
+      {
+        "step": 8,
+        "promptTokens": 7452,
+        "cachedTokens": 6912,
+        "completionTokens": 791,
+        "cost": 0.0149635
+      }
+    ],
+    "input": 33935,
+    "cached": 25600,
+    "share": 0.7543833799911596,
+    "cost": 0.2389175
+  },
+  {
+    "tier": "medium",
+    "project": "chrome-extension",
+    "model": "qwen/qwen3.6-27b",
+    "calls": [
+      {
+        "step": 1,
+        "promptTokens": 234,
+        "cachedTokens": 0,
+        "completionTokens": 3322,
+        "cost": 0.01070528
+      },
+      {
+        "step": 2,
+        "promptTokens": 918,
+        "cachedTokens": 0,
+        "completionTokens": 2022,
+        "cost": 0.00676416
+      },
+      {
+        "step": 3,
+        "promptTokens": 1684,
+        "cachedTokens": 0,
+        "completionTokens": 2627,
+        "cost": 0.00894528
+      },
+      {
+        "step": 4,
+        "promptTokens": 2482,
+        "cachedTokens": 1664,
+        "completionTokens": 9491,
+        "cost": 0.03096576
+      },
+      {
+        "step": 5,
+        "promptTokens": 4252,
+        "cachedTokens": 2432,
+        "completionTokens": 7936,
+        "cost": 0.026464
+      },
+      {
+        "step": 6,
+        "promptTokens": 5236,
+        "cachedTokens": 4224,
+        "completionTokens": 9765,
+        "cost": 0.03241664
+      },
+      {
+        "step": 7,
+        "promptTokens": 6228,
+        "cachedTokens": 5120,
+        "completionTokens": 9725,
+        "cost": 0.03249856
+      },
+      {
+        "step": 8,
+        "promptTokens": 7625,
+        "cachedTokens": 6144,
+        "completionTokens": 875,
+        "cost": 0.00450272
+      }
+    ],
+    "input": 28659,
+    "cached": 19584,
+    "share": 0.683345545901811,
+    "cost": 0.1532624
+  },
+  {
+    "tier": "medium",
+    "project": "chrome-extension",
+    "model": "zai-org/glm-5.2",
+    "calls": [
+      {
+        "step": 1,
+        "promptTokens": 217,
+        "cachedTokens": 64,
+        "completionTokens": 789,
+        "cost": 0.003373
+      },
+      {
+        "step": 2,
+        "promptTokens": 891,
+        "cachedTokens": 128,
+        "completionTokens": 984,
+        "cost": 0.004827
+      },
+      {
+        "step": 3,
+        "promptTokens": 1715,
+        "cachedTokens": 768,
+        "completionTokens": 835,
+        "cost": 0.005055
+      },
+      {
+        "step": 4,
+        "promptTokens": 2031,
+        "cachedTokens": 1664,
+        "completionTokens": 2533,
+        "cost": 0.0109982
+      },
+      {
+        "step": 5,
+        "promptTokens": 3552,
+        "cachedTokens": 1920,
+        "completionTokens": 2694,
+        "cost": 0.012984
+      },
+      {
+        "step": 6,
+        "promptTokens": 5261,
+        "cachedTokens": 3456,
+        "completionTokens": 494,
+        "cost": 0.0048178
+      },
+      {
+        "step": 7,
+        "promptTokens": 5513,
+        "cachedTokens": 5248,
+        "completionTokens": 520,
+        "cost": 0.0039194
+      },
+      {
+        "step": 8,
+        "promptTokens": 5784,
+        "cachedTokens": 5504,
+        "completionTokens": 423,
+        "cost": 0.0036232
+      }
+    ],
+    "input": 24964,
+    "cached": 18752,
+    "share": 0.7511616728088447,
+    "cost": 0.0495976
+  },
+  {
+    "tier": "medium",
+    "project": "csv-cleaner",
+    "model": "deepseek-ai/deepseek-v4-flash",
+    "calls": [
+      {
+        "step": 1,
+        "promptTokens": 217,
+        "cachedTokens": 0,
+        "completionTokens": 305,
+        "cost": 0.0001088
+      },
+      {
+        "step": 2,
+        "promptTokens": 494,
+        "cachedTokens": 0,
+        "completionTokens": 601,
+        "cost": 0.00022435
+      },
+      {
+        "step": 3,
+        "promptTokens": 849,
+        "cachedTokens": 256,
+        "completionTokens": 970,
+        "cost": 0.00036985
+      },
+      {
+        "step": 4,
+        "promptTokens": 1374,
+        "cachedTokens": 768,
+        "completionTokens": 1188,
+        "cost": 0.0005031
+      },
+      {
+        "step": 5,
+        "promptTokens": 2347,
+        "cachedTokens": 1280,
+        "completionTokens": 1196,
+        "cost": 0.00056145
+      },
+      {
+        "step": 6,
+        "promptTokens": 3408,
+        "cachedTokens": 2304,
+        "completionTokens": 1703,
+        "cost": 0.00077567
+      },
+      {
+        "step": 7,
+        "promptTokens": 4618,
+        "cachedTokens": 3328,
+        "completionTokens": 1952,
+        "cost": 0.00094774
+      },
+      {
+        "step": 8,
+        "promptTokens": 6440,
+        "cachedTokens": 4608,
+        "completionTokens": 2137,
+        "cost": 0.00117769
+      }
+    ],
+    "input": 19747,
+    "cached": 12544,
+    "share": 0.6352357320099256,
+    "cost": 0.00466865
+  },
+  {
+    "tier": "medium",
+    "project": "csv-cleaner",
+    "model": "deepseek-ai/deepseek-v4-pro",
+    "calls": [
+      {
+        "step": 1,
+        "promptTokens": 215,
+        "cachedTokens": 0,
+        "completionTokens": 1264,
+        "cost": 0.003375
+      },
+      {
+        "step": 2,
+        "promptTokens": 596,
+        "cachedTokens": 0,
+        "completionTokens": 989,
+        "cost": 0.0030685
+      },
+      {
+        "step": 3,
+        "promptTokens": 1050,
+        "cachedTokens": 512,
+        "completionTokens": 1150,
+        "cost": 0.003925
+      },
+      {
+        "step": 4,
+        "promptTokens": 1794,
+        "cachedTokens": 1024,
+        "completionTokens": 2262,
+        "cost": 0.006681
+      },
+      {
+        "step": 5,
+        "promptTokens": 3005,
+        "cachedTokens": 1792,
+        "completionTokens": 1555,
+        "cost": 0.0055485
+      },
+      {
+        "step": 6,
+        "promptTokens": 4127,
+        "cachedTokens": 2944,
+        "completionTokens": 2417,
+        "cost": 0.0079615
+      },
+      {
+        "step": 7,
+        "promptTokens": 5566,
+        "cachedTokens": 4096,
+        "completionTokens": 2901,
+        "cost": 0.0097465
+      },
+      {
+        "step": 8,
+        "promptTokens": 7799,
+        "cachedTokens": 5504,
+        "completionTokens": 2849,
+        "cost": 0.0107935
+      }
+    ],
+    "input": 24152,
+    "cached": 15872,
+    "share": 0.6571712487578668,
+    "cost": 0.0510995
+  },
+  {
+    "tier": "medium",
+    "project": "csv-cleaner",
+    "model": "moonshotai/kimi-k3",
+    "calls": [
+      {
+        "step": 1,
+        "promptTokens": 297,
+        "cachedTokens": 0,
+        "completionTokens": 1189,
+        "cost": 0.0157535
+      },
+      {
+        "step": 2,
+        "promptTokens": 811,
+        "cachedTokens": 0,
+        "completionTokens": 1145,
+        "cost": 0.0167455
+      },
+      {
+        "step": 3,
+        "promptTokens": 1472,
+        "cachedTokens": 0,
+        "completionTokens": 3222,
+        "cost": 0.044691
+      },
+      {
+        "step": 4,
+        "promptTokens": 2550,
+        "cachedTokens": 1408,
+        "completionTokens": 3499,
+        "cost": 0.0478675
+      },
+      {
+        "step": 5,
+        "promptTokens": 4031,
+        "cachedTokens": 2432,
+        "completionTokens": 1425,
+        "cost": 0.0238255
+      },
+      {
+        "step": 6,
+        "promptTokens": 4587,
+        "cachedTokens": 3968,
+        "completionTokens": 1970,
+        "cost": 0.028466
+      },
+      {
+        "step": 7,
+        "promptTokens": 6591,
+        "cachedTokens": 4480,
+        "completionTokens": 974,
+        "cost": 0.020748
+      },
+      {
+        "step": 8,
+        "promptTokens": 7606,
+        "cachedTokens": 6528,
+        "completionTokens": 3526,
+        "cost": 0.050573
+      }
+    ],
+    "input": 27945,
+    "cached": 18816,
+    "share": 0.6733225979602792,
+    "cost": 0.24867
+  },
+  {
+    "tier": "medium",
+    "project": "csv-cleaner",
+    "model": "qwen/qwen3.6-27b",
+    "calls": [
+      {
+        "step": 1,
+        "promptTokens": 235,
+        "cachedTokens": 0,
+        "completionTokens": 2380,
+        "cost": 0.0076912
+      },
+      {
+        "step": 2,
+        "promptTokens": 714,
+        "cachedTokens": 0,
+        "completionTokens": 11354,
+        "cost": 0.03656128
+      },
+      {
+        "step": 3,
+        "promptTokens": 1246,
+        "cachedTokens": 0,
+        "completionTokens": 2302,
+        "cost": 0.00776512
+      },
+      {
+        "step": 4,
+        "promptTokens": 1883,
+        "cachedTokens": 1152,
+        "completionTokens": 7926,
+        "cost": 0.02582752
+      },
+      {
+        "step": 5,
+        "promptTokens": 2984,
+        "cachedTokens": 1792,
+        "completionTokens": 7304,
+        "cost": 0.02411264
+      },
+      {
+        "step": 6,
+        "promptTokens": 4229,
+        "cachedTokens": 2944,
+        "completionTokens": 2559,
+        "cost": 0.0091888
+      },
+      {
+        "step": 7,
+        "promptTokens": 5690,
+        "cachedTokens": 4224,
+        "completionTokens": 4817,
+        "cost": 0.01672832
+      },
+      {
+        "step": 8,
+        "promptTokens": 7716,
+        "cachedTokens": 5632,
+        "completionTokens": 4822,
+        "cost": 0.01722368
+      }
+    ],
+    "input": 24697,
+    "cached": 15744,
+    "share": 0.6374863343725958,
+    "cost": 0.14509856
+  },
+  {
+    "tier": "medium",
+    "project": "csv-cleaner",
+    "model": "zai-org/glm-5.2",
+    "calls": [
+      {
+        "step": 1,
+        "promptTokens": 218,
+        "cachedTokens": 64,
+        "completionTokens": 366,
+        "cost": 0.001682
+      },
+      {
+        "step": 2,
+        "promptTokens": 542,
+        "cachedTokens": 128,
+        "completionTokens": 514,
+        "cost": 0.002598
+      },
+      {
+        "step": 3,
+        "promptTokens": 924,
+        "cachedTokens": 448,
+        "completionTokens": 2054,
+        "cost": 0.00914
+      },
+      {
+        "step": 4,
+        "promptTokens": 1566,
+        "cachedTokens": 832,
+        "completionTokens": 4062,
+        "cost": 0.017814
+      },
+      {
+        "step": 5,
+        "promptTokens": 2869,
+        "cachedTokens": 1536,
+        "completionTokens": 809,
+        "cost": 0.0050298
+      },
+      {
+        "step": 6,
+        "promptTokens": 3238,
+        "cachedTokens": 2816,
+        "completionTokens": 3802,
+        "cost": 0.0164748
+      },
+      {
+        "step": 7,
+        "promptTokens": 5156,
+        "cachedTokens": 3200,
+        "completionTokens": 2319,
+        "cost": 0.012192
+      },
+      {
+        "step": 8,
+        "promptTokens": 7446,
+        "cachedTokens": 5120,
+        "completionTokens": 1810,
+        "cost": 0.011102
+      }
+    ],
+    "input": 21959,
+    "cached": 14144,
+    "share": 0.6441094767521289,
+    "cost": 0.07603259999999999
+  },
+  {
+    "tier": "medium",
+    "project": "expense-tracker",
+    "model": "deepseek-ai/deepseek-v4-flash",
+    "calls": [
+      {
+        "step": 1,
+        "promptTokens": 223,
+        "cachedTokens": 0,
+        "completionTokens": 2671,
+        "cost": 0.0007012
+      },
+      {
+        "step": 2,
+        "promptTokens": 2793,
+        "cachedTokens": 0,
+        "completionTokens": 2585,
+        "cost": 0.0010652
+      },
+      {
+        "step": 3,
+        "promptTokens": 5046,
+        "cachedTokens": 2688,
+        "completionTokens": 351,
+        "cost": 0.00065649
+      },
+      {
+        "step": 4,
+        "promptTokens": 5135,
+        "cachedTokens": 4992,
+        "completionTokens": 3081,
+        "cost": 0.00119106
+      },
+      {
+        "step": 5,
+        "promptTokens": 7715,
+        "cachedTokens": 5120,
+        "completionTokens": 364,
+        "cost": 0.00088985
+      },
+      {
+        "step": 6,
+        "promptTokens": 7933,
+        "cachedTokens": 7680,
+        "completionTokens": 4054,
+        "cost": 0.00166585
+      },
+      {
+        "step": 7,
+        "promptTokens": 9256,
+        "cachedTokens": 7808,
+        "completionTokens": 3632,
+        "cost": 0.00174984
+      },
+      {
+        "step": 8,
+        "promptTokens": 12745,
+        "cachedTokens": 9216,
+        "completionTokens": 3680,
+        "cost": 0.00218663
+      }
+    ],
+    "input": 50846,
+    "cached": 37504,
+    "share": 0.7375998111945876,
+    "cost": 0.010106120000000001
+  },
+  {
+    "tier": "medium",
+    "project": "expense-tracker",
+    "model": "deepseek-ai/deepseek-v4-pro",
+    "calls": [
+      {
+        "step": 1,
+        "promptTokens": 221,
+        "cachedTokens": 0,
+        "completionTokens": 2210,
+        "cost": 0.005746
+      },
+      {
+        "step": 2,
+        "promptTokens": 2258,
+        "cachedTokens": 0,
+        "completionTokens": 1116,
+        "cost": 0.005048
+      },
+      {
+        "step": 3,
+        "promptTokens": 2533,
+        "cachedTokens": 2176,
+        "completionTokens": 1197,
+        "cost": 0.0038935
+      },
+      {
+        "step": 4,
+        "promptTokens": 3551,
+        "cachedTokens": 2432,
+        "completionTokens": 1094,
+        "cost": 0.004462
+      },
+      {
+        "step": 5,
+        "promptTokens": 4367,
+        "cachedTokens": 3456,
+        "completionTokens": 1396,
+        "cost": 0.005265
+      },
+      {
+        "step": 6,
+        "promptTokens": 5460,
+        "cachedTokens": 4352,
+        "completionTokens": 1646,
+        "cost": 0.006311
+      },
+      {
+        "step": 7,
+        "promptTokens": 5925,
+        "cachedTokens": 5376,
+        "completionTokens": 2769,
+        "cost": 0.0088155
+      },
+      {
+        "step": 8,
+        "promptTokens": 6839,
+        "cachedTokens": 5888,
+        "completionTokens": 3313,
+        "cost": 0.0107055
+      }
+    ],
+    "input": 31154,
+    "cached": 23680,
+    "share": 0.7600950118764845,
+    "cost": 0.0502465
+  },
+  {
+    "tier": "medium",
+    "project": "expense-tracker",
+    "model": "moonshotai/kimi-k3",
+    "calls": [
+      {
+        "step": 1,
+        "promptTokens": 303,
+        "cachedTokens": 0,
+        "completionTokens": 2079,
+        "cost": 0.0268965
+      },
+      {
+        "step": 2,
+        "promptTokens": 1895,
+        "cachedTokens": 0,
+        "completionTokens": 660,
+        "cost": 0.013935
+      },
+      {
+        "step": 3,
+        "promptTokens": 2223,
+        "cachedTokens": 1792,
+        "completionTokens": 674,
+        "cost": 0.010614
+      },
+      {
+        "step": 4,
+        "promptTokens": 2673,
+        "cachedTokens": 2176,
+        "completionTokens": 1725,
+        "cost": 0.0241415
+      },
+      {
+        "step": 5,
+        "promptTokens": 3518,
+        "cachedTokens": 2560,
+        "completionTokens": 710,
+        "cost": 0.013029
+      },
+      {
+        "step": 6,
+        "promptTokens": 3979,
+        "cachedTokens": 3456,
+        "completionTokens": 607,
+        "cost": 0.0108845
+      },
+      {
+        "step": 7,
+        "promptTokens": 4414,
+        "cachedTokens": 3968,
+        "completionTokens": 969,
+        "cost": 0.0154345
+      },
+      {
+        "step": 8,
+        "promptTokens": 5422,
+        "cachedTokens": 4352,
+        "completionTokens": 5558,
+        "cost": 0.074861
+      }
+    ],
+    "input": 24427,
+    "cached": 18304,
+    "share": 0.7493347525279404,
+    "cost": 0.18979600000000002
+  },
+  {
+    "tier": "medium",
+    "project": "expense-tracker",
+    "model": "qwen/qwen3.6-27b",
+    "calls": [
+      {
+        "step": 1,
+        "promptTokens": 241,
+        "cachedTokens": 0,
+        "completionTokens": 3728,
+        "cost": 0.01200672
+      },
+      {
+        "step": 2,
+        "promptTokens": 1714,
+        "cachedTokens": 0,
+        "completionTokens": 2768,
+        "cost": 0.00940608
+      },
+      {
+        "step": 3,
+        "promptTokens": 3446,
+        "cachedTokens": 1664,
+        "completionTokens": 2484,
+        "cost": 0.00885184
+      },
+      {
+        "step": 4,
+        "promptTokens": 5345,
+        "cachedTokens": 3328,
+        "completionTokens": 3078,
+        "cost": 0.01116064
+      },
+      {
+        "step": 5,
+        "promptTokens": 7718,
+        "cachedTokens": 5248,
+        "completionTokens": 3010,
+        "cost": 0.011472
+      },
+      {
+        "step": 6,
+        "promptTokens": 10174,
+        "cachedTokens": 7680,
+        "completionTokens": 7066,
+        "cost": 0.02494528
+      },
+      {
+        "step": 7,
+        "promptTokens": 12644,
+        "cachedTokens": 10112,
+        "completionTokens": 3937,
+        "cost": 0.01543104
+      },
+      {
+        "step": 8,
+        "promptTokens": 15784,
+        "cachedTokens": 12544,
+        "completionTokens": 4913,
+        "cost": 0.0192672
+      }
+    ],
+    "input": 57066,
+    "cached": 40576,
+    "share": 0.711036343882522,
+    "cost": 0.11254080000000001
+  },
+  {
+    "tier": "medium",
+    "project": "expense-tracker",
+    "model": "zai-org/glm-5.2",
+    "calls": [
+      {
+        "step": 1,
+        "promptTokens": 224,
+        "cachedTokens": 0,
+        "completionTokens": 1694,
+        "cost": 0.007
+      },
+      {
+        "step": 2,
+        "promptTokens": 1832,
+        "cachedTokens": 128,
+        "completionTokens": 2244,
+        "cost": 0.010808
+      },
+      {
+        "step": 3,
+        "promptTokens": 3690,
+        "cachedTokens": 1792,
+        "completionTokens": 736,
+        "cost": 0.0053796
+      },
+      {
+        "step": 4,
+        "promptTokens": 4065,
+        "cachedTokens": 3584,
+        "completionTokens": 2870,
+        "cost": 0.0130362
+      },
+      {
+        "step": 5,
+        "promptTokens": 6302,
+        "cachedTokens": 3968,
+        "completionTokens": 453,
+        "cost": 0.0053364
+      },
+      {
+        "step": 6,
+        "promptTokens": 6613,
+        "cachedTokens": 6272,
+        "completionTokens": 1333,
+        "cost": 0.0075546
+      },
+      {
+        "step": 7,
+        "promptTokens": 7042,
+        "cachedTokens": 6528,
+        "completionTokens": 4024,
+        "cost": 0.0185684
+      },
+      {
+        "step": 8,
+        "promptTokens": 9892,
+        "cachedTokens": 7040,
+        "completionTokens": 3870,
+        "cost": 0.020444
+      }
+    ],
+    "input": 39660,
+    "cached": 29312,
+    "share": 0.7390821986888553,
+    "cost": 0.0881272
+  }
+]
